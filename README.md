@@ -1,3 +1,5 @@
+[MyProfile:](https://github.com/juhnoktober968)
+
 # 📸 Image Classification Flutter App
 > **Real-time machine learning at your fingertips.** > Built with Flutter and powered by **Teachable Machine** & **TensorFlow Lite**.
 
@@ -41,4 +43,4 @@ Before you begin, ensure your environment meets these requirements:
 ### Setup
 1. **Clone this repository:**
    ```bash
-   git clone [https://github.com/juhnoktober968/IT120_Final_Project.git](https://github.com/juhnoktober968/IT120_Final_Project.git)
+   git clone [Repository](https://github.com/juhnoktober968/IT120_Final_Project.git)
