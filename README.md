@@ -31,15 +31,6 @@ A central hub designed for seamless navigation across all core functionalities.
 
 ---
 
-## 🛠 Installation
-
-### Prerequisites
-Before you begin, ensure your environment meets these requirements:
-* **Flutter SDK:** `^3.0.0`
-* **Dart SDK:** `^3.0.0`
-* **IDE:** VS Code or Android Studio
-* **Hardware:** An Android physical device is recommended for camera testing.
-
 ### Setup
 1. **Clone this repository:**
    ```bash
